@@ -1,0 +1,11 @@
+C:\Users\luciano.pereira\source\repos\APITeste\APITeste.Infra\bin\Debug\netcoreapp2.2\APITeste.Infra.deps.json
+C:\Users\luciano.pereira\source\repos\APITeste\APITeste.Infra\bin\Debug\netcoreapp2.2\APITeste.Infra.dll
+C:\Users\luciano.pereira\source\repos\APITeste\APITeste.Infra\bin\Debug\netcoreapp2.2\APITeste.Infra.pdb
+C:\Users\luciano.pereira\source\repos\APITeste\APITeste.Infra\bin\Debug\netcoreapp2.2\APITeste.Domain.dll
+C:\Users\luciano.pereira\source\repos\APITeste\APITeste.Infra\bin\Debug\netcoreapp2.2\APITeste.Domain.pdb
+C:\Users\luciano.pereira\source\repos\APITeste\APITeste.Infra\obj\Debug\netcoreapp2.2\APITeste.Infra.csprojAssemblyReference.cache
+C:\Users\luciano.pereira\source\repos\APITeste\APITeste.Infra\obj\Debug\netcoreapp2.2\APITeste.Infra.AssemblyInfoInputs.cache
+C:\Users\luciano.pereira\source\repos\APITeste\APITeste.Infra\obj\Debug\netcoreapp2.2\APITeste.Infra.AssemblyInfo.cs
+C:\Users\luciano.pereira\source\repos\APITeste\APITeste.Infra\obj\Debug\netcoreapp2.2\APITeste.Infra.csproj.CopyComplete
+C:\Users\luciano.pereira\source\repos\APITeste\APITeste.Infra\obj\Debug\netcoreapp2.2\APITeste.Infra.dll
+C:\Users\luciano.pereira\source\repos\APITeste\APITeste.Infra\obj\Debug\netcoreapp2.2\APITeste.Infra.pdb

@@ -1,0 +1,204 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\luciano.pereira\\source\\repos\\APITeste\\APITeste.API\\APITeste.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\luciano.pereira\\source\\repos\\APITeste\\APITeste.API\\APITeste.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\luciano.pereira\\source\\repos\\APITeste\\APITeste.API\\APITeste.API.csproj",
+        "projectName": "APITeste.API",
+        "projectPath": "C:\\Users\\luciano.pereira\\source\\repos\\APITeste\\APITeste.API\\APITeste.API.csproj",
+        "packagesPath": "C:\\Users\\luciano.pereira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luciano.pereira\\source\\repos\\APITeste\\APITeste.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\luciano.pereira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\luciano.pereira\\source\\repos\\APITeste\\APITeste.Domain\\APITeste.Domain.csproj": {
+                "projectPath": "C:\\Users\\luciano.pereira\\source\\repos\\APITeste\\APITeste.Domain\\APITeste.Domain.csproj"
+              },
+              "C:\\Users\\luciano.pereira\\source\\repos\\APITeste\\APITeste.Infra\\APITeste.Infra.csproj": {
+                "projectPath": "C:\\Users\\luciano.pereira\\source\\repos\\APITeste\\APITeste.Infra\\APITeste.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\luciano.pereira\\source\\repos\\APITeste\\APITeste.Domain\\APITeste.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\luciano.pereira\\source\\repos\\APITeste\\APITeste.Domain\\APITeste.Domain.csproj",
+        "projectName": "APITeste.Domain",
+        "projectPath": "C:\\Users\\luciano.pereira\\source\\repos\\APITeste\\APITeste.Domain\\APITeste.Domain.csproj",
+        "packagesPath": "C:\\Users\\luciano.pereira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luciano.pereira\\source\\repos\\APITeste\\APITeste.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\luciano.pereira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\luciano.pereira\\source\\repos\\APITeste\\APITeste.Infra\\APITeste.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\luciano.pereira\\source\\repos\\APITeste\\APITeste.Infra\\APITeste.Infra.csproj",
+        "projectName": "APITeste.Infra",
+        "projectPath": "C:\\Users\\luciano.pereira\\source\\repos\\APITeste\\APITeste.Infra\\APITeste.Infra.csproj",
+        "packagesPath": "C:\\Users\\luciano.pereira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luciano.pereira\\source\\repos\\APITeste\\APITeste.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\luciano.pereira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\luciano.pereira\\source\\repos\\APITeste\\APITeste.Domain\\APITeste.Domain.csproj": {
+                "projectPath": "C:\\Users\\luciano.pereira\\source\\repos\\APITeste\\APITeste.Domain\\APITeste.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
