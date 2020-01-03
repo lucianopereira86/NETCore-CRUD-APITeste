@@ -1,8 +1,0 @@
-C:\Users\luciano.pereira\source\repos\APITeste\APITeste.Domain\bin\Debug\netcoreapp2.2\APITeste.Domain.deps.json
-C:\Users\luciano.pereira\source\repos\APITeste\APITeste.Domain\bin\Debug\netcoreapp2.2\APITeste.Domain.dll
-C:\Users\luciano.pereira\source\repos\APITeste\APITeste.Domain\bin\Debug\netcoreapp2.2\APITeste.Domain.pdb
-C:\Users\luciano.pereira\source\repos\APITeste\APITeste.Domain\obj\Debug\netcoreapp2.2\APITeste.Domain.csprojAssemblyReference.cache
-C:\Users\luciano.pereira\source\repos\APITeste\APITeste.Domain\obj\Debug\netcoreapp2.2\APITeste.Domain.AssemblyInfoInputs.cache
-C:\Users\luciano.pereira\source\repos\APITeste\APITeste.Domain\obj\Debug\netcoreapp2.2\APITeste.Domain.AssemblyInfo.cs
-C:\Users\luciano.pereira\source\repos\APITeste\APITeste.Domain\obj\Debug\netcoreapp2.2\APITeste.Domain.dll
-C:\Users\luciano.pereira\source\repos\APITeste\APITeste.Domain\obj\Debug\netcoreapp2.2\APITeste.Domain.pdb
